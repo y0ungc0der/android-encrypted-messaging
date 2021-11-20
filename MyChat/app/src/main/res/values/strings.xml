@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="select_photo">Select photo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="new_message">New Message</string>
+    <string name="send">Send</string>
+    <string name="message_field">Message...</string>
+    <string name="latest_message">Latest Message</string>
+</resources>
